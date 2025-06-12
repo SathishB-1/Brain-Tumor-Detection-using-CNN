@@ -108,5 +108,7 @@ Developed by Sathish B
 GitHub: https://github.com/SathishB-1/Brain-Tumor-Detection-using-CNN
 
 ## User Interface:
+Negative Result:
  ![img Alt](https://github.com/SathishB-1/Brain-Tumor-Detection-using-CNN/blob/1141c89cafa74c409e3f8d7a10cbc2ecbcefadca/image/Negative%20image.jpg)
- ![img Alt]()
+Positive Resulit:
+ ![img Alt](https://github.com/SathishB-1/Brain-Tumor-Detection-using-CNN/blob/d825e12b33c96fc46cf7b1f2a38c0af9a07449be/image/Positive%20image.jpg)
